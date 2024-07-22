@@ -1,0 +1,50 @@
+img{
+    height: 300px;
+    width: 400px;
+}
+body{
+    border: 20px solid white;
+    margin: 10px;
+    padding: 10px;
+}
+h2{
+background-color: rgb(173, 173, 216);
+    text-align: center;
+}
+h3{
+    background-color: rgb(215, 215, 240);
+    text-align: center
+    
+}
+#p1{
+    text-align: center;
+}
+#p2{
+    text-align: center;
+}
+#p3{
+    
+}
+h1{
+    background-color: rgb(181, 181, 231);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+}
+.biography{
+    font-size: larger;
+    line-height: 2;
+}
+.intro{
+    font-size: larger;
+    line-height: 2;
+}
+.hobbies{
+    line-height: 3;
+}
